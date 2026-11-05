@@ -1,0 +1,6 @@
+{
+  "name": "KisanSeva Agritech Platform",
+  "description": "Voice-first, explainable crop advisory and reality-based irrigation management for Indian smallholder farmers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
